@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭​ I'm currently working on scripts for my FiveM shop<br>​📒 First year @Epitech Paris student
+🔭​ I'm currently working on scripts for my FiveM shop 
+📒 First year @Epitech Paris student
+💻 Shop : https://mxxr.tebex.io
+📃 Documentation : https://mxxr.gitbook.io
 
 
 ## 🌐 Socials:
