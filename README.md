@@ -3,6 +3,7 @@
 <br>📒 First year Epitech student in Paris
 <br>💻 Shop ( +400 customers & 1000 sales ) : https://mxxr.tebex.io
 <br>📃 Documentation : https://mxxr.gitbook.io
+<br>📑 Digital Resume / CV : https://digital-resume-theo-busiris.vercel.app/
 
 
 ## 🌐 Socials
