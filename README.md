@@ -1,11 +1,10 @@
 # 💫 About Me
-🔭​ I'm currently working on scripts for my FiveM shop 
-<br>📒 First year Epitech student in Paris
+🔭​ I'm currently working on learning IA engineering & Rust
+<br>📒 First-year top-ranked bootcamp student and ambassador at Epitech Paris
 <br>💻 Shop ( +400 customers & 1600 sales ) : https://mxxr.tebex.io
 <br>📃 Documentation : https://mxxr.gitbook.io
 <br>📑 Digital Resume / CV : https://busiristheo.com
 <br>💼​ LinkedIn : https://linkedin.com/in/theobusiris
-
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/cUSGgpSaYw) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@mxxr_dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mxxr_fv) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mxxrdiscord?si=Ny7fhugY62TRQEU8) 
