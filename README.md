@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭​ I'm currently working on learning IA engineering & Rust
+🔭​ I'm currently learning IA engineering & Rust
 <br>📒 First-year top-ranked bootcamp student and ambassador at Epitech Paris
 <br>💻 Shop ( +400 customers & 1600 sales ) : https://mxxr.tebex.io
 <br>📃 Documentation : https://mxxr.gitbook.io
