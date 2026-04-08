@@ -1,7 +1,7 @@
 # 💫 About Me
 🔭​ I'm currently learning IA engineering & Rust
 <br>📒 First-year top-ranked bootcamp student and ambassador at Epitech Paris
-<br>💻 Shop ( +400 customers & 1600 sales ) : https://mxxr.tebex.io
+<br>💻 Shop ( +700 customers & +1600 sales ) : https://mxxr.tebex.io
 <br>📃 Documentation : https://mxxr.gitbook.io
 <br>📑 Portfolio : https://busiristheo.com
 <br>💼​ LinkedIn : https://linkedin.com/in/theobusiris
