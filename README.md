@@ -1,6 +1,6 @@
 # 💫 About Me
-🔭​ I'm currently learning C & Rust
-<br>📒 First-year top-ranked bootcamp student and ambassador at Epitech Paris
+🔭​ Co-Founder of Vibaura | Co-Founder of Gosper AI
+<br>📒 First-year top-ranked student and ambassador at Epitech Paris
 <br>💻 Shop ( +700 customers & +1400 sales ) : https://mxxr.tebex.io
 <br>📃 Documentation : https://mxxr.gitbook.io
 <br>📑 Portfolio : https://busiristheo.com
